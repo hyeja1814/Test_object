@@ -1,0 +1,30 @@
+0_$ 앞에 웬만하믄 git이 붙고 그다음에 알아서
+
+맨처음 커밋 만들때
+git config --global user.email "내 이메일 주소"
+					(깃 허브에서)
+git config --global user.name "내 닉네임"
+
+
+
+git add 문서.확장자
+(버전 추가여)
+
+git commit -m "부가설명"
+
+git log 버전들 확인이여
+
+(노란글씨로) commit 뒤에영어 블라블라
+
+git checkout (commit 블라블라 앞 7글자.) 특정버전으로 돌아가는거 
+
+git checkout- (최근 버전으로 다시 옮김)
+
+git remote add origin (원격저장소 주소) (원격으로 올려버리겠다 그 말이죱)
+
+git push origin master ( 커밋들을 다 올려버리겠다 그 말이죠)
+
+git pull origin master ( 원격저장소에 새로운 커밋이 있다믄 다 받아버리겠다 그 말이져)
+
+
+
